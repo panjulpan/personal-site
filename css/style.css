@@ -79,13 +79,13 @@ section {
 	text-align: left;
   }
 
-  .chip, .control {
+  .chip, .web {
 	width: 25%;
 	float: left;
 	margin-right: 30px;
   }
   
-  .web {
+  .control {
 	width: 25%;
 	float: right;
 	margin-left: 30px;
